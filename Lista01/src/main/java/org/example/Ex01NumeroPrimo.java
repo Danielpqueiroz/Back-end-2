@@ -14,11 +14,13 @@ public class Ex01NumeroPrimo {
                 if (number % i == 0){
                     cont += 1;
                 }
+            }if (cont == 0){
+                System.out.println("O número informado é primo!");
+            }else{
+                System.out.println("O número informado não é primo!");
             }
 
-        }else if (cont == 0){
-            System.out.println("O número informado é primo!");
-        } else{
+        }else {
             System.out.println("O número informado não é primo!");
         }
 
