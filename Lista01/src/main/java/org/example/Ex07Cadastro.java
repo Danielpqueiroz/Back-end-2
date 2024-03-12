@@ -1,3 +1,11 @@
+/*  Crie um código que receba o cadastro de um cliente (nome, cpf, endereço, data de nascimento
+e telefone) e o cadastro de livros (nome, autor, quantidade de páginas e editora). Permita que
+os clientes possam pegar livros emprestados (data de empréstimo e data que deverá ser
+devolvido) e, USANDO DTO, exiba o nome do cliente, nome do livro, data de empréstimo e
+data de que deverá ser devolvido).
+
+ */
+
 package org.example;
 
 import java.time.LocalDate;
@@ -85,7 +93,7 @@ class Cliente {
         this.telefone = telefone;
     }
 
-    // Getters e Setters
+    
 }
 
 class Livro {
@@ -132,7 +140,7 @@ class Livro {
     public void setEditora(String editora) {
         this.editora = editora;
     }
-// Getters e Setters
+
 }
 
 class EmprestimoDTO {
@@ -180,5 +188,5 @@ class EmprestimoDTO {
         this.dataDevolucao = dataDevolucao;
     }
 
-    // Getters e Setters
+
 }

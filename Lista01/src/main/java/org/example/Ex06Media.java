@@ -1,3 +1,14 @@
+/* Escreva um código que tenha uma classe chamada Aluno, que receba três notas do tipo inteiro
+        e o nome do aluno do tipo String.
+        Pergunte ao usuário o nome do aluno e as três notas, continue pedindo alunos e notas até que o
+        usuário digite “sair” como nome do aluno.
+        Quando o usuário digitar “sair”, imprima a nota e média das notas de todos os alunos.
+        Imprimir a média geral da turma.
+
+        Imprimir a quantidade de alunos reprovados e aprovado (média >= 6 aprovado).
+        Imprimir os nomes dos alunos aprovados
+        Imprimir os nomes dos alunos reprovados
+*/
 import java.util.Scanner;
 
 public class Ex06Media {

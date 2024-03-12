@@ -1,3 +1,11 @@
+/*Escreva um código que receba um nome completo em forma de String e mostre as iniciais
+do nome.
+Ex.:
+Entrada: Demetrius de Castro do Amaral
+Saída: D.C.A
+
+ */
+
 package org.example;
 
 import java.util.Scanner;

@@ -1,6 +1,10 @@
-package org.example;
+/*4o Escreva um código que receba uma String qualquer e a imprima de forma invertida.
+Ex.:
+Entrada: estude java
+Saída: avaj edutse
 
-import java.sql.SQLOutput;
+ */
+package org.example;
 import java.util.Scanner;
 
 public class Ex04Inverter {

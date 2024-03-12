@@ -1,3 +1,14 @@
+/* Escreva um código que receba uma String simples (apenas uma palavra) e monte um array
+com os valores respectivos a cada letra da palavra, os organize em ordem crescente, imprima
+esse array e a palavra na nova ordem.
+Ex.:
+Entrada: estudar
+Array: {5, 19, 20, 21, 4, 1, 18}
+Array ordenado: {1, 4, 5, 18, 19, 20, 21}
+Saída: aderstu.
+
+ */
+
 package org.example;
 
 import java.util.Arrays;

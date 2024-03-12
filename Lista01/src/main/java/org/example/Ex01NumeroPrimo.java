@@ -1,3 +1,4 @@
+// Escrever um código que receba um número inteiro e informe se ele é um número primo.
 package org.example;
 
 import java.util.Scanner;
