@@ -1,10 +1,9 @@
-package org.example;
-
 /*Escrever um código que sorteie um número randômico de 0 a 1000, peça um número inteiro
   neste intervalo, se o usuário errar, informar se o valor sorteado é maior ou menor que o
     informado e solicitar outro número do usuário até que ele acerte o número. Quando acertar,
     informar a quantidade de palpites que ele informou até acertar.
 */
+package org.example;
 import java.util.Random;
 import java.util.Scanner;
 
